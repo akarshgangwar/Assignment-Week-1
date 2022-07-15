@@ -532,3 +532,34 @@ font-weight: 400;
 font-size: 18px;
 line-height: 100%;  
 }
+.support{
+    width: 87px;
+height: 24px;
+position: absolute;
+font-family: 'Dot Matrix';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 100%;
+margin-top: 3512px;
+margin-left: 428px;
+color: #000000;
+}
+
+
+
+.download{
+width: 204px;
+height: 24px;
+position: absolute;
+margin-top: 3512px;
+margin-left: 679px;
+font-family: 'Dot Matrix';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 100%;
+
+
+color: #000000;
+}
