@@ -247,3 +247,61 @@ top: 1474px;
 background: url(image7.png);
 
 }
+.description
+{
+    margin-top: 1481px;
+    margin-left: 578px;
+    width: 285px;
+    height: 36px;
+    
+    font-family: 'Dot Matrix';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 100%;
+    color: #FFFFFF;
+    position: absolute;
+}
+.leftEar
+{
+    position: absolute;
+width: 318.87px;
+height: 311.28px;
+left: -66.46px;
+top: -28.86px;
+
+background: url(image8.png);
+margin-top: 1378.14px ;
+margin-left: 974.04px;
+}
+
+.RightEar
+{
+    position: absolute;
+    width: 318.87px;
+    height: 311.28px;
+    margin-top: 1490px;
+    margin-left: 1130px;
+    background: url(image9.png);
+
+}
+
+.subdescription
+{
+    position: absolute;
+    width: 433px;
+height: 66px;
+margin-top:1541px ;
+margin-left:504px ;
+font-family: 'Inconsolata';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 100%;
+/* or 22px */
+
+text-align: center;
+
+color: #FFFFFF;
+
+}
