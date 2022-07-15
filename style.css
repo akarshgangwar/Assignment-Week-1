@@ -1,5 +1,14 @@
 @import url('http://fonts.cdnfonts.com/css/dot-matrix');
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1440px;
+    height: 3905px;;
+    background-color: black;
+}
 nav{
     display: flex;
     flex-direction: row;
@@ -18,7 +27,7 @@ nav{
 
 } 
 
-
+  
 .menu
 {
    
@@ -129,31 +138,18 @@ color: #FFFFFF;
     font-weight: 600;
 }
 
-.hero
-{
-    height: 999.85px;
-    width: 1440px;
-    background-color: black;
-    margin:0;
-} 
 
 
+.phone{
+   
+position: absolute;
+width: 282.13px;
+height: 564.85px;
+margin-top: 171px;
+margin-left:579px;
+background: url(image1.png);
+}
 
- <nav>
-      <div class="brand">
-        <p>NOTHING</p>
-      </div>
-
-      <div class="menu">
-        <div id="item1">
-          <p>Phone<1></p>
-        </div>
-        <div id="item2">
-          <p>ear<1></p>
-        </div>
-        <div id="item3">
-          <p>LOGIN</p>
-        </div>
-      </div>
-    </nav>
-    
+.hero p{
+    color: #FFFFFF;
+}
