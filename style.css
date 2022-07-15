@@ -173,7 +173,7 @@ background: url(image1.png);
     width: 374px;
 } */
 .tagLine{
-    width: 374px;
+    width: 378px;
     margin-top: 342px;
     margin-left: 961px;;
 position: absolute;
@@ -227,4 +227,23 @@ margin-top: 584px;
 margin-left: 961px;
 background: #FFFFFF;
 border-radius: 5px;
+}
+.section2
+{
+    height: 230px;
+    width: 1437px;
+    position: absolute;
+    margin-top: 999px;
+    background: url(section2.png);
+}
+
+.airpods
+{
+    position: absolute;
+width: 368px;
+height: 370.42px;
+left: 60px;
+top: 1474px;
+background: url(image7.png);
+
 }
