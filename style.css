@@ -201,13 +201,29 @@ font-size: 22px;
 line-height: 100%;
 
 }
+
+.tagline3{
+    font-family: 'Inconsolata';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 100%;
+/* or 22px */
+
+    width: 373px;
+    height: 36px;
+    position: absolute;
+    margin-top: 510px;
+    margin-left: 961px;
+    color: #FFFFFF;
+}
 .learnmore{
     padding: 12px 20px 12px 18px;
 gap: 10px;
 position: absolute;
 width: 138px;
 height: 46px;
-margin-top: 652px;
+margin-top: 584px;
 margin-left: 961px;
 background: #FFFFFF;
 border-radius: 5px;
