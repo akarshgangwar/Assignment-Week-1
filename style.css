@@ -138,6 +138,15 @@ color: #FFFFFF;
     font-weight: 600;
 }
 
+.phonetext{
+    position: absolute;
+width: 302px;
+height: 36px;
+left: 193px;
+top: 171px;
+ background: url(phonetext.png);
+
+}
 
 
 .phone{
