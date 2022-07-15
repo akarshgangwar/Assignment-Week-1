@@ -563,3 +563,18 @@ line-height: 100%;
 
 color: #000000;
 }
+.news{
+    width: 204px;
+height: 24px;
+position: absolute;
+margin-top: 3512px;
+margin-left: 1001px;
+font-family: 'Dot Matrix';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 100%;
+
+
+color: #000000;
+}
