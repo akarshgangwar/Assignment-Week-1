@@ -415,3 +415,52 @@ border-radius: 5px;
 color: #FFFFFF;
 
 }
+.eye{
+    position: absolute;
+width: 1019px;
+height: 644px;
+left: 3px;
+top: 111px;
+margin-top: 2700px;
+background: url(image22.png);
+}
+
+.eyebackground
+{
+    position: absolute;
+    background-color: antiquewhite;
+    margin-top:2687px;
+    width: 1440px;
+    height: 755px;
+}
+.eyeabout{
+    margin-top: 2966px;
+    margin-left: 1022px;
+    width: 152px;
+height: 36px;
+position: absolute;
+font-family: 'Dot Matrix';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+/* line-height: 100%; */
+/* identical to box height, or 36px */
+/* background-color: aquamarine; */
+
+color: #000;
+}
+.subAbout
+{
+    width: 357px;
+height: 88px;
+
+font-family: 'Inconsolata';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 100%;
+margin-top:3014px ;
+margin-left:1022px ;
+position: absolute;
+color: #000000;
+}
